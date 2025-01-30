@@ -1,0 +1,16 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/
+.idea/
+
+# Compiled output
+target/
+bin/
+
+# Misc
+.DS_Store
